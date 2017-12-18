@@ -39,4 +39,8 @@ GOING   TO   ADD   TO   THE github
 
 ## References and links
 
-GOING   TO   ADD   TO   THE github
+https://www.youtube.com/watch?v=QOyghUxLdqE
+
+http://www.instructables.com/id/Wireless-Controlled-Robotic-Hand/
+
+http://www.instructables.com/id/Arduino-Make-a-Robotic-Hand-Low-Cost/
